@@ -1,0 +1,34 @@
+{
+    "projects": {
+        "lib": {
+            "name": "lib",
+            "template": {
+                "name":"lib"
+            }
+        },
+        "api": {
+            "name": "api",
+            "template": {
+                "name":"api"
+            }
+        },
+        "cli": {
+            "name": "cli",
+            "template": {
+                "name":"cli"
+            }
+        },
+        "api-web-server": {
+            "name": "api-web-server",
+            "template": {
+                "name":"api-web-server"
+            }
+        },
+        "api-web-client": {
+            "name": "api-web-client",
+            "template": {
+                "name":"api-web-client"
+            }
+        }
+    }
+}
